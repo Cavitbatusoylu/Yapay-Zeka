@@ -13,3 +13,7 @@ Bu repository, **Yapay Zeka 101** eğitimi süresince tamamladığım uygulamala
 - Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras)
 - Jupyter Notebook
 - Git ve GitHub
+
+## Eğitim Hedeflerim ve Gelecek Planları
+
+Bu eğitimi tamamladıktan sonra amacım, **Yapay Zeka** ve **Makine Öğrenimi** alanlarında derinlemesine bilgi sahibi olmak ve gerçek dünya problemlerine çözüm geliştirmek. Öğrendiğim teknikleri kullanarak projelerimi daha da geliştirmeyi planlıyorum.
