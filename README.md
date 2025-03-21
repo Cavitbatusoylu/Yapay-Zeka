@@ -1,6 +1,6 @@
 # Yapay Zeka
 
-Bu repo, **Yapay Zeka 101** eğitimi süresince tamamladığım ödevleri, uygulamaları ve projeleri içermektedir. Yapay zeka ve makine öğrenmesi konularında temel bilgileri öğrenmek ve çeşitli algoritmalar üzerinde çalışmak amacıyla oluşturulmuştur.
+Bu repository, **Yapay Zeka 101** eğitimi süresince tamamladığım uygulamaları ve projeleri içermektedir. Yapay zeka ve makine öğrenmesi konularında temel bilgileri öğrenmek ve çeşitli algoritmalar üzerinde çalışmak amacıyla oluşturulmuştur.
 
 ## 🚀 İçerik
 - **Veri Ön İşleme:** Verilerin temizlenmesi ve analiz edilmesi
